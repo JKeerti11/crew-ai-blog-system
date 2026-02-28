@@ -165,7 +165,7 @@ Specify your preferred license here (MIT, Apache 2.0, etc.).
 * Google Gemini API
 * Python ecosystem contributors
 
-##Output
+## Output
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/78ec4bdf-2547-4989-a74f-7c5932673279" />
 ---
 
