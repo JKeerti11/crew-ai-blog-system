@@ -36,18 +36,6 @@ Input Topic → Research Agent → Writer Agent → Markdown Blog Output
 
 ---
 
-## Project Structure
-
-```
-
-.
-├── agents.py        # Agent definitions
-├── tasks.py         # Task definitions
-├── crew.py          # Crew orchestration and execution
-├── requirements.txt
-└── README.md
-
-````
 
 ---
 
