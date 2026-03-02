@@ -37,8 +37,6 @@ Input Topic → Research Agent → Writer Agent → Markdown Blog Output
 ---
 
 
----
-
 ## Features
 
 - Role-based AI agents with defined goals and backstories
